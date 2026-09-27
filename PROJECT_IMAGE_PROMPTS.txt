@@ -1,0 +1,53 @@
+MICHAEL ADESHINA — PORTFOLIO PROJECT IMAGE PROMPTS
+================================================
+
+Use these prompts with an image generator to create editorial case-study artwork for the portfolio. The images should look like intentional product/engineering visuals, not literal screenshots unless you replace them with real screenshots later.
+
+Global direction for every project:
+- Premium software-engineering case study
+- Dark navy / near-black background
+- Electric cyan data and system accents
+- Warm amber highlights for human/workflow context
+- Editorial grid, precise lines, generous negative space
+- Subtle depth, tactile glass panels, restrained glow
+- Realistic interface fragments or diagrammatic architecture
+- No watermark, no logo misuse, no unreadable fake UI text, no random charts
+- 16:9 landscape, 2400x1350 or higher
+- Leave clean areas where a title or project label can be overlaid later
+
+
+1. AFRILANCE
+------------
+
+Prompt:
+Premium editorial case-study hero for AFRILance, a trusted freelance marketplace designed to connect African talent with meaningful work. Show a refined dark interface composed of marketplace project cards, a client brief panel, a freelancer opportunity view, and a subtle regional network motif. Include a discreet security/data-layer abstraction suggesting role-based access and protected project data. The composition should communicate product thinking, trust, and end-to-end marketplace flow without showing a generic admin dashboard. Deep navy background, electric cyan and warm amber accents, crisp grid lines, realistic but abstract interface panels, premium software publication aesthetic, no unreadable fake text, no watermark, 16:9 landscape.
+
+
+2. PERZSI AI SCRAPER
+--------------------
+
+Prompt:
+Premium technical case-study hero for a FastAPI-administered AI e-commerce extraction platform. Visualize a modular pipeline from URL discovery to browser crawl, structured extraction, validation, human review, edit, and publish. Place the pipeline as a calm sequence of connected technical modules, with a restrained operations dashboard in the background showing project and product review states. Emphasize reliability, human-in-the-loop review, and production readiness. Deep navy background, cyan pipeline paths, green validation states, amber human-review highlights, precise technical grid, realistic interface fragments, no illegible fake labels, no watermark, 16:9 landscape.
+
+
+3. IMPACT PRODUCT AUTOMATE
+-------------------------
+
+Prompt:
+High-end engineering case-study visual for an internal affiliate-marketing operations platform. Show nested and inconsistent API payload shapes on one side being normalized into clean product, store, coupon, banner, and catalog records on the other side. Include a calm data-operations workspace with review, correction, export, and bulk-action affordances, plus subtle ETL flow lines connecting ingestion to usable records. Do not make unsupported performance claims. Dark navy-black canvas, warm amber and electric cyan data accents, editorial grid, precise geometric composition, realistic but abstract UI details, no illegible fake text, no watermark, 16:9 landscape.
+
+
+4. PERZSI TRACK
+---------------
+
+Prompt:
+Premium engineering case-study visual for a click-tracking and attribution platform. Show resilient event streams entering a backend system, moving through validation and attribution logic, and emerging as useful business signals in a clear operations dashboard. Include a restrained reliability panel suggesting event volume, processing health, and reporting visibility, without inventing numerical performance claims. Emphasize production hardening, observability, and trustworthy data flow. Dark navy background, cyan event paths, amber warning highlights, technical editorial composition, clean diagrams, no illegible fake text, no watermark, 16:9 landscape.
+
+
+USE NOTES
+----------
+- These are concept visuals, not screenshots. Replace them with real project screenshots when available.
+- Avoid generating fake claims such as “100% accuracy”, revenue, latency, or client results.
+- Keep the visual language consistent across all four projects.
+- A safe text-free image is preferable to generated gibberish text.
+- If adding text in the image generator, use only the project name and a short category label, then verify spelling afterward.
